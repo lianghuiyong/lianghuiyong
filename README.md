@@ -3,6 +3,13 @@
 - 🏗 Focus on [HuiYong](https://huiyong.online)
 - 💬 WeChat: [HuiYong-Liang](HuiYong-Liang)
 - 📫 Ping me by [1026946613@qq.com](1026946613@qq.com)
+
+<div>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lianghuiyong&hide=less,scss,css,html" />
+</div>
+<div>
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=lianghuiyong&show_icons=true&icon_color=ad0d52&text_color=24292e&bg_color=ffffff&hide_title=true&count_private=true&include_all_commits=true" />
+</div>
 <!--
 **lianghuiyong/lianghuiyong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
