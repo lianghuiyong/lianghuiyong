@@ -4,6 +4,8 @@
 - 💬 WeChat: [HuiYong-Liang](HuiYong-Liang)
 - 📫 Ping me by [1026946613@qq.com](1026946613@qq.com)
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+梁惠涌.+Welcome+to+My+Github!)](https://git.io/typing-svg)
+
 <div>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lianghuiyong&hide=less,scss,css,html" />
 </div>
