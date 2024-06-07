@@ -12,8 +12,6 @@
 
 [![GitHub Snake Light](https://raw.githubusercontent.com/lianghuiyong/lianghuiyong/output/github-contribution-grid-snake.svg)](https://github.com/lianghuiyong)
 
-<summary>😎 View my contributions in 3D</summary>
-
 ![](https://raw.githubusercontent.com/lianghuiyong/lianghuiyong/profile-3d-contrib/profile-green.svg#gh-light-mode-only)
 ![](https://raw.githubusercontent.com/lianghuiyong/lianghuiyong/profile-3d-contrib/profile-night-green.svg#gh-dark-mode-only)
 
